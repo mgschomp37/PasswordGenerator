@@ -13,6 +13,7 @@ Simple password generator with Python
 
 
 # Installing PySimpleGui:
+Open up a command prompt or terminal and type:
 ```
 
 pip install pysimplegui
@@ -22,6 +23,8 @@ pip3 install pysimplegui
 ```
 
 # Running the Script:
+
+Open up a command prompt or terminal, head to the file location and type:
 ```
 
 python passwordgen.py
